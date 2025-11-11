@@ -8,6 +8,5 @@ for (int i = 2; i <= n; i += 2) {
 product = product * i;
     }
     printf("%lld\n", product);
-
 return 0;
 }
